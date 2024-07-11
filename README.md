@@ -43,6 +43,9 @@ Ian
   https://www.linkedin.com/in/ian-dos-anjos-melo-aguiar-7a0317227/
 -->
 
+[![asciicast](https://asciinema.org/a/7WlXkV504vaDZ2z06zkmfvxm5.svg)](https://asciinema.org/a/7WlXkV504vaDZ2z06zkmfvxm5)
+
+<!--
 ```
 Ian
  ├──Linguagens
@@ -87,3 +90,4 @@ Ian
      ├──https://ianaguiar-ai.github.io/ian_dos_anjos/
      └──https://www.linkedin.com/in/ian-dos-anjos-melo-aguiar-7a0317227/
 ```
+-->
