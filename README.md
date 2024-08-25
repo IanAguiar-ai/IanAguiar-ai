@@ -83,7 +83,8 @@ Ian
  │       ├──https://github.com/IanAguiar-ai/easy_queries
  │       ├──https://github.com/IanAguiar-ai/tree_by_text
  │       ├──https://github.com/IanAguiar-ai/Amply
- │       └──https://github.com/IanAguiar-ai/compressor_binario
+ │       ├──https://github.com/IanAguiar-ai/compressor_binario
+ |       └──https://github.com/IanAguiar-ai/card_game_ascii
  └──Redes_sociais
      ├──https://ianaguiar-ai.github.io/ian_dos_anjos/
      └──https://www.linkedin.com/in/ian-dos-anjos-melo-aguiar-7a0317227/
