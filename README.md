@@ -74,7 +74,7 @@ Ian
  │   │       └──https://github.com/IanAguiar-ai/esp32_tools
  │   ├──Regressão
  │   │   ├──https://github.com/IanAguiar-ai/Discrete_Functions_Action_Integration_Hub
- │   │   └──https://github.com/IanAguiar-ai/compressor_binario](https://github.com/IanAguiar-ai/free_regression
+ │   │   └──https://github.com/IanAguiar-ai/free_regression
  │   ├──Otimização_Código_Python
  │   │   ├──Código_C_em_Python
  │   │   ├──Cython
