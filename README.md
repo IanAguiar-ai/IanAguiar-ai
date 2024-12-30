@@ -64,7 +64,8 @@ Ian
  │   │       └──https://github.com/IanAguiar-ai/Self_Organizing_Maps
  │   ├──Machine_Learning
  │   │   ├──https://github.com/IanAguiar-ai/metrics
- │   │   └──https://github.com/IanAguiar-ai/K_Means_Variance
+ │   │   ├──https://github.com/IanAguiar-ai/K_Means_Variance
+ │   │   └──https://github.com/IanAguiar-ai/cluster_standard_deviation
  │   ├──Computação_Gráfica
  │   │   ├──https://github.com/IanAguiar-ai/Engine_3d
  │   │   └──https://github.com/IanAguiar-ai/render
