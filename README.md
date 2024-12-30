@@ -27,6 +27,7 @@ Ian
     https://github.com/IanAguiar-ai/esp32_tools
   Regressão
    https://github.com/IanAguiar-ai/Discrete_Functions_Action_Integration_Hub
+   https://github.com/IanAguiar-ai/free_regression
   Otimização_Código_Python
    Código_C_em_Python
    Cython
@@ -72,7 +73,8 @@ Ian
  │   │   └──Em_MicroPython
  │   │       └──https://github.com/IanAguiar-ai/esp32_tools
  │   ├──Regressão
- │   │   └──https://github.com/IanAguiar-ai/Discrete_Functions_Action_Integration_Hub
+ │   │   ├──https://github.com/IanAguiar-ai/Discrete_Functions_Action_Integration_Hub
+ │   │   └── https://github.com/IanAguiar-ai/compressor_binario
  │   ├──Otimização_Código_Python
  │   │   ├──Código_C_em_Python
  │   │   ├──Cython
@@ -84,7 +86,7 @@ Ian
  │       ├──https://github.com/IanAguiar-ai/tree_by_text
  │       ├──https://github.com/IanAguiar-ai/Amply
  │       ├──https://github.com/IanAguiar-ai/compressor_binario
- |       └──https://github.com/IanAguiar-ai/card_game_ascii
+ │       └──https://github.com/IanAguiar-ai/card_game_ascii
  └──Redes_sociais
      ├──https://ianaguiar-ai.github.io/ian_dos_anjos/
      └──https://www.linkedin.com/in/ian-dos-anjos-melo-aguiar-7a0317227/
