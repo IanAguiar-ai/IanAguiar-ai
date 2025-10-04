@@ -65,7 +65,8 @@ Ian
  │   ├──Machine_Learning
  │   │   ├──https://github.com/IanAguiar-ai/metrics
  │   │   ├──https://github.com/IanAguiar-ai/K_Means_Variance
- │   │   └──https://github.com/IanAguiar-ai/cluster_standard_deviation
+ │   │   ├──https://github.com/IanAguiar-ai/cluster_standard_deviation
+ │   │   └──https://github.com/IanAguiar-ai/free_decision_tree
  │   ├──Computação_Gráfica
  │   │   ├──https://github.com/IanAguiar-ai/Engine_3d
  │   │   └──https://github.com/IanAguiar-ai/render
